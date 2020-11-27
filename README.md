@@ -12,7 +12,13 @@ node src/app.js
 ##Docker
 docker-compse up -build
 
-#Url
+#apis de las que depende:
+- https://github.com/quilarque1/api-suma
+- https://github.com/quilarque1/api-resta
+- https://github.com/quilarque1/api-division
+- https://github.com/quilarque1/api-multiplicacion
+
+#Url local
 <span>
 
 *http://localhost:3000*
